@@ -28,7 +28,7 @@ function Header() {
   const path = usePathname();
 
   const links = [
-    { label: "Sale", href: "/" },
+    { label: "Buy", href: "/" },
     { label: "Rent", href: "/rent" },
     { label: "Agents", href: "/agents" },
   ];
